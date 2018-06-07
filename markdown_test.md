@@ -1,6 +1,6 @@
 # Create HP use github
-## Header 2
-### Header 3
+## Github is a free repo for programers
+### Try it
 
 - Bulleted
 - List
